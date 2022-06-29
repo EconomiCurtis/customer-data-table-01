@@ -72,4 +72,4 @@ gt(customer_data) %>%
 ```
 
 
-![image|327x500](full-table.png)
+![full-table-image|327x500](img/full-table.png)
