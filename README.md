@@ -4,10 +4,10 @@ Customer Data Table - Search a data table with R &amp; gt
 **Author** : Rich Iannone - [Twitter ](https://twitter.com/riannone)- [GitHub](https://github.com/rich-iannone)- [Linkedin](https://www.linkedin.com/in/richard-iannone-a5640017/)
 View the [ **Table** ](https://rpubs.com/RStudio_Curtis/920137)- [ **Repo** ](https://github.com/EconomiCurtis/customer-data-table-01)
 
-![image|690x480, 50%](upload://6KjVUZGN4XMUwUZiMfGTg52YEMd.png)
+![image|690x480, 50%](img/table-gallery-tile.png)
 
 
-![ezgif.com-gif-maker|690x388](upload://yoC74Fgwm7UNA7llyMXtUzdjCgx.gif)
+![ezgif.com-gif-maker|690x388](img/table-build.gif)
 
 
 ```
@@ -72,4 +72,4 @@ gt(customer_data) %>%
 ```
 
 
-![image|327x500](upload://o7YxC4yOSteHaOGayMzqi15tv90.png)
+![image|327x500](full-table.png)
